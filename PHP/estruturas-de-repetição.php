@@ -8,13 +8,19 @@
 <body>
     <ul>
         <li>
-            <a href="for.php">FOR</a>
+            <a href="for.php">For</a>
         </li>
     </ul>
 
     <ul>
         <li>
-            <a href="foreach.php">FOREACH</a>
+            <a href="foreach.php">Foreach</a>
+        </li>
+    </ul>
+
+    <ul>
+        <li>
+            <a href="while.php">While</a>
         </li>
     </ul>
 </body>
