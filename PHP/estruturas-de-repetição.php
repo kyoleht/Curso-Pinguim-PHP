@@ -12,6 +12,10 @@
         </li>
     </ul>
 
-    
+    <ul>
+        <li>
+            <a href="foreach.php">FOREACH</a>
+        </li>
+    </ul>
 </body>
 </html>
