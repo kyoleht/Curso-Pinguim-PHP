@@ -16,9 +16,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php include 'head.php'; ?>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php include 'include/head.php'; ?>
+    <?php $config = include('inc/config.php'); ?>
     <title>Include</title>
 </head>
 <body>
