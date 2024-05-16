@@ -15,6 +15,9 @@
         <li>
             <a href="./funcao-tipada.php">Função Tipada</a>
         </li>
+        <li>
+            <a href="./funcao-referencia.php">Parâmetros por Referência</a>
+        </li>
 </ul>
 
 </body>
