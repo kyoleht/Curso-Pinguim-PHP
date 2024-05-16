@@ -12,6 +12,9 @@
         <li>
             <a href="./exemplo-basico.php">Exemplo Básico</a>
         </li>
+        <li>
+            <a href="./funcao-tipada.php">Função Tipada</a>
+        </li>
 </ul>
 
 </body>
