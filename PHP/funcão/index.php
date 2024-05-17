@@ -18,6 +18,9 @@
         <li>
             <a href="./funcao-referencia.php">Parâmetros por Referência</a>
         </li>
+        <li>
+            <a href="./escopo-variaveis.php">Escopo de Variáveis</a>
+        </li>
 </ul>
 
 </body>

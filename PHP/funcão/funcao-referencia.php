@@ -5,11 +5,11 @@ declare(strict_types = 1);
 $titulo = 'parametros por referência';
 $subtitulo = 'teste com valores e referencia';
 
-function converteTitulo(string &$titulo) {
+function converteTitulo(string &$titulo): void {
     $titulo = mb_convert_case($titulo, mode:MB_CASE_TITLE);
 }
 
-function converteTituloValor(string $titulo): string {
+function converteSubtituloValor(string $titulo): string {
     return mb_convert_case($titulo, mode:MB_CASE_TITLE);
 }
 
