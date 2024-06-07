@@ -26,7 +26,7 @@ converteTitulo($titulo);
 </head>
 <body>
     <h1><?= $titulo ?></h1>
-    <h2><?= converteTituloValor($subtitulo) ?></h2>
+    <h2><?= converteSubtituloValor($subtitulo) ?></h2>
 
     <div>
         <?= $subtitulo ?> 
