@@ -1,6 +1,6 @@
 <?php 
 
-    class Login {
+    class Logon {
         private $email;
         private $password;
         private $nome;
@@ -23,7 +23,7 @@
         }
     }
 
-    $logado = new Login("emaildeteste@teste.com.br", "123456", "Rafael");
+    $logado = new Logon("emaildeteste@teste.com.br", "123456", "Rafael");
     echo $logado->Logar();
 
 ?>
